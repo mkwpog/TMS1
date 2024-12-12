@@ -1,0 +1,14 @@
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleAppNAME.exe
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleAppNAME.deps.json
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleAppNAME.runtimeconfig.json
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleAppNAME.dll
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleAppNAME.pdb
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleAppNAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleAppNAME.AssemblyInfoInputs.cache
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleAppNAME.AssemblyInfo.cs
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleAppNAME.csproj.CoreCompileInputs.cache
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleAppNAME.dll
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleAppNAME.dll
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleAppNAME.pdb
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleAppNAME.genruntimeconfig.cache
+C:\Users\mirek\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleAppNAME.dll
