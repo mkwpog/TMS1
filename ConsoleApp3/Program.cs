@@ -15,13 +15,13 @@
 
             Console.WriteLine("Введи дату рожднения (формат день.месяц.год):");
             var Date = Console.ReadLine();
-            
             //123
+            
             Console.WriteLine($"Ваши данные: {firstName} {lastName} {fatherName} ,дата рождения: {Date}");
 
             Console.ReadLine();
             Console.ReadKey();
-
+            //88
         }
     }
 }
